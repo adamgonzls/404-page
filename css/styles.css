@@ -95,9 +95,10 @@ h2 {
 
 .btn-action {
 	display: block;
-	width: 25%;
 	border-radius: 25px;
 	padding: 13px 40px;
+	width: 25%;
+	text-align: center;
 	color: #fff;
 	background-color: #273442;
 	border: none;
